@@ -17,3 +17,4 @@ export const Cart = ({counts, setCounts}: { counts: number | string, setCounts: 
        </Box>
      )
 }
+

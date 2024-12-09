@@ -1,4 +1,3 @@
-import React, {useState} from 'react';
 import ImageList from "@mui/material/ImageList";
 import ImageListItem from "@mui/material/ImageListItem";
 import productThumbnail1 from "../../images/image-product-1-thumbnail.jpg";
@@ -8,7 +7,6 @@ import productThumbnail4 from "../../images/image-product-4-thumbnail.jpg";
 import { ICountsImages } from "./types";
 import {ReactComponent as IconClose} from '../../images/icon-close.svg';
 import {ReactComponent as IconPrev} from '../../images/icon-previous.svg';
-import IconButton from '@mui/material/IconButton';
 import { HoverableIconButton } from '../HoverableIconClose/HoverableIconClose';
 import {ReactComponent as IconNext} from '../../images/icon-next.svg';
 import { HoverablePrevIconButton } from '../HoverableButtonPrev/HoverableButtonPrev';

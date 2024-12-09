@@ -1,5 +1,4 @@
 import Backdrop from "@mui/material/Backdrop";
-import Box from '@mui/material/Box';
 import { IBackDropProps } from "./types";
 import { ContentBackdrop } from "../ContentBackDrop/ContentBackDrop";
 
